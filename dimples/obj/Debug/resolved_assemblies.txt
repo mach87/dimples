@@ -1,0 +1,4 @@
+C:\dimples\dimples\bin\Debug\dimples.dll
+C:\dimples\Components\buddy-platform-sdk-1.5.0.1\lib\android\Buddy.dll
+C:\dimples\Components\json.net-4.5.11\lib\android\Newtonsoft.Json.dll
+C:\dimples\Components\xamarin.auth-1.1.0\lib\android\Xamarin.Auth.Android.dll

@@ -1,31 +1,25 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\Program Files (x86)\MSBuild\Xamarin\Android\Xamarin.Android.Common.targets">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dimples\SystemCore.cs">
     <Files>
-      <File FileName="dimples\SystemCore.cs" Line="1" Column="1" />
-      <File FileName="dimples\Security.cs" Line="1" Column="1" />
-      <File FileName="dimples\Users.cs" Line="1" Column="1" />
-      <File FileName="dimples\AppInterface.cs" Line="1" Column="1" />
-      <File FileName="dimples\Broadcast.cs" Line="1" Column="1" />
-      <File FileName="dimples\Messaging.cs" Line="1" Column="1" />
+      <File FileName="dimples\SystemCore.cs" Line="31" Column="31" />
+      <File FileName="dimples\Security.cs" Line="49" Column="1" />
+      <File FileName="dimples\Navigation.cs" Line="1" Column="1" />
+      <File FileName="dimples\Login.cs" Line="28" Column="6" />
       <File FileName="dimples\Profile.cs" Line="1" Column="1" />
-      <File FileName="dimples\Groups.cs" Line="1" Column="1" />
-      <File FileName="dimples\AppHandler.cs" Line="1" Column="1" />
-      <File FileName="dimples\Navigation.cs" Line="20" Column="31" />
-      <File FileName="..\Program Files (x86)\MSBuild\Xamarin\Android\Xamarin.Android.Common.targets" Line="824" Column="2" />
+      <File FileName="dimples\Resources\drawable\red_button.xml" Line="37" Column="12" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
           <Node name="dimples" expanded="True">
             <Node name="ComponentReferenceFolder" expanded="True" />
-            <Node name="Assets" expanded="True" />
-            <Node name="Properties" expanded="True" />
             <Node name="Resources" expanded="True">
               <Node name="drawable" expanded="True" />
               <Node name="layout" expanded="True" />
+              <Node name="values" expanded="True" />
             </Node>
-            <Node name="Navigation.cs" selected="True" />
+            <Node name="SystemCore.cs" selected="True" />
           </Node>
         </State>
       </Pad>
